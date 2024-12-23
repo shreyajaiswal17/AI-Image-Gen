@@ -85,17 +85,24 @@
     width: 0px;
     height: 8px;
     background:palevioletred;
-    margin-left: 130px;
+    margin-left:50%;
+    position: relative;
     
   
   }
-  .loading-text{
-    font-size: 70px;
+ 
+  .loading-text {
+    font-size: 40px;
+    position: absolute;
     text-align: center;
-    margin-top: 10px;
-    color: palevioletred;
-   
+    color: white;
+    position: absolute; /* Position the text independently */
+    top: 3750%; /* Adjust this percentage as needed to move the text down */
+    left: 50%;
+ 
+    transform: translateX(-50%); /* Center the text horizontally */
   }
+  
   
   .loading-bar-full{
     width: 512px;

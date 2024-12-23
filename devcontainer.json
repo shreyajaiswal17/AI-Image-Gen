@@ -1,0 +1,22 @@
+{
+    "name": "React App Development",
+    "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:0-14",
+    "forwardPorts": [
+      3000
+    ],
+    "customizations": {
+      "vscode": {
+        "settings": {
+          "terminal.integrated.defaultProfile.linux": "bash",
+          "javascript.suggest.autoImports": true
+        },
+        "extensions": [
+          "msjsdiag.vscode-react-native",
+          "esbenp.prettier-vscode",
+          "dbaeumer.vscode-eslint",
+          "ms-azuretools.vscode-docker"
+        ]
+      }
+    },
+    "postCreateCommand": "npm install"
+  }
