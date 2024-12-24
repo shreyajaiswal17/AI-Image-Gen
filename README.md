@@ -24,7 +24,7 @@ Install Daytona: Follow the [Daytona installation guide](https://www.daytona.io/
 * Versatile Applications: Suitable for brainstorming, artistic inspiration, content creation, and more.
 
 ## 🛠️ Tech Stack
-Image Generation Model: black-forest-labs/FLUX.1-dev  
+Image Generation Model: black-forest-labs/FLUX.1-dev, Hugging Face
 
 Frontend: HTML, CSS, JS,React
 
