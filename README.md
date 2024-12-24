@@ -1,5 +1,21 @@
-# Text-to-Image Generator
+## Daytona Submission!
+
+## About the Project -
+## Text-to-Image Generator
 The Text-to-Image Generator is an advanced application that allows users to input a descriptive prompt and generate a visually realistic image. Powered by the black-forest-labs/FLUX.1-dev model, it ensures high-quality outputs with minimal processing time, making it an excellent tool for creative professionals, designers, and enthusiasts.
+
+
+### 🚀 Getting Started
+1.Open Using Daytona
+### `Install Daytona: Follow the Daytona installation guide.`
+
+2.Create the Workspace:
+
+### `daytona create https://github.com/shreyajaiswal17/AI-Image-Gen`
+
+3.Start the Application:
+
+### `npm run start`
 
 ##  Features
 * Realistic Image Generation: Converts descriptive text into highly detailed and accurate images.
@@ -11,24 +27,6 @@ The Text-to-Image Generator is an advanced application that allows users to inpu
 Image Generation Model: black-forest-labs/FLUX.1-dev  
 
 Frontend: HTML, CSS, JS,React
-
-## 🛠️ Setup Instructions
-Follow these steps to set up the project locally:
-
-1.Clone the repository
-### `git clone https://github.com/YourUsername/text-to-image-generator.git`
-
-2.Navigate to the project directory
-
-### `cd text-to-image-generator`
-  
-3.Install dependencies
-### `npm install`
-
-4.Run the development server:
-
-5.Access the application
-### `Open a web browser and go to http:localhost{PORT}.`
 
 
 ## 🤝 Contributing
