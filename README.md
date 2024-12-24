@@ -7,7 +7,7 @@ The Text-to-Image Generator is an advanced application that allows users to inpu
 
 ### 🚀 Getting Started
 1.Open Using Daytona
-### `Install Daytona: Follow the Daytona installation guide.`
+### `Install Daytona: Follow the [Daytona installation guide](https://www.daytona.io/docs/installation/installation/).`
 
 2.Create the Workspace:
 
