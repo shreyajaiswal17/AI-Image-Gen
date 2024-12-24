@@ -8,7 +8,8 @@ The Text-to-Image Generator is an advanced application that allows users to inpu
 * Versatile Applications: Suitable for brainstorming, artistic inspiration, content creation, and more.
 
 ## 🛠️ Tech Stack
-Image Generation Model: black-forest-labs/FLUX.1-dev
+Image Generation Model: black-forest-labs/FLUX.1-dev  
+
 Frontend: HTML, CSS, JS,React
 
 ## 🛠️ Setup Instructions
@@ -22,7 +23,7 @@ Follow these steps to set up the project locally:
 ### `cd text-to-image-generator`
   
 3.Install dependencies
-### `npm install'
+### `npm install`
 
 4.Run the development server:
 
@@ -31,13 +32,18 @@ Follow these steps to set up the project locally:
 
 
 ## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 Feel free to check the issues page for ideas or to report bugs.
 
 Steps to contribute:
+
 1.Fork the repository.
+
 2.Create a new branch:
 
 ### `git checkout -b feature/YourFeatureName`
+
 3.Commit your changes and push them to the branch.
+
 4.Open a pull request.
