@@ -32,7 +32,7 @@ Frontend: HTML, CSS, JS,React
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the issues page for ideas or to report bugs.
+
 
 Steps to contribute:
 
